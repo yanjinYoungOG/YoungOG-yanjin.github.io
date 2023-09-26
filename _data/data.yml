@@ -9,22 +9,22 @@ sidebar:
 
     # Profile information
     name: YoungOG燕锦
-    tagline: Full Stack Developer
+    tagline: 开发岗/算法工程师
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: a3467895898@163.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    phone: 17550959902
+    timezone: China/Shanghai Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: 'NULL' #do not add http://
     linkedin: alandoe
     xing: alandoe
-    github: sharu725
+    github: yanjinYoungOG
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    gitlab:'NULL'
+    bitbucket:'NULL'
+    twitter: 'NULL'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,25 +33,27 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Chinese/汉语
           level: Native
 
-        - idiom: French
+        - idiom: English/英语
           level: Professional
+          details: CET4,CET6,IELTS 7.0,高考英语141,考研英语（一）77
 
-        - idiom: Spanish
+        - idiom: German/德语
           level: Professional
+          details: CET4,CET6
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Python Programming
           link:
 
         - item: Snowboarding
           link:
 
-        - item: Cooking
+        - item: Hip-hop culture
           link:
 
 career-profile:
@@ -90,11 +92,11 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Project Experiences/项目经历
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Mendix Developer/开发类
+        time: 08/2023 - 12/2023
+        company: Siemens/西门子, BeiJing
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -107,26 +109,26 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+      - role: Django Developer/开发类
+        time: 07/2023-08/2023
+        company: Bjtu/北京交通大学, Beijing
+        details: |CMS 原型系统： 北京市
+        职责: 编程
+          论文主要内容:基于Python-Django的CMS原型系统
+          使用 Python 语言、 Django 框架开发制作一个 CMS 原型系统；
+          CMS 原型系统包含两个实体对象，分别为栏目与文章;
+          管理用户应用该系统可以发布文章，选择栏目；可以对文章、栏目进行增删改查。
+          普通用户可以浏览发布的文章内容；
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+      - role: Spring-Boot毕设项目
+        time: 02/2022-06/2022
+        company: Huel/河南财经政法大学, Zhengzhou
+        details: |职责: 编程+论文写作
+           论文主要内容:基于java-web的学生公寓管理系统
+           该系统基于面向对象的Java语言，使用idea集成开发工具进行开发，
+           运用Spring-MVC框架、MyBatis-Plus等相关技术理论。
+           其中，前端使用CSS，Ajax技术，后端使用Spring面向切面编程，并使用MySQL数据库开发项目。
             - Bullet point
             - Bullet point
 
